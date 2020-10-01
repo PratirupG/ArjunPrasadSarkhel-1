@@ -14,4 +14,4 @@ More about me- https://apspportfolio.herokuapp.com/
 [![](./profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/ArjunPrasadSarkhel/github-profile-summary-cards)
 [![](./profile-summary-card-output/dracula/3-stats.svg)](https://github.com/ArjunPrasadSarkhel/github-profile-summary-cards)
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
