@@ -7,6 +7,8 @@ More about me- https://apspportfolio.herokuapp.com/
 
 <!---![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArjunPrasadSarkhel&show_icons=true&theme=gruvbox)-->
 
+![](https://komarev.com/ghpvc/?username=ArjunPrasadSarkhel&color=green)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunPrasadSarkhel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](./profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/ArjunPrasadSarkhel/github-profile-summary-cards)
