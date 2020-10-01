@@ -1,15 +1,13 @@
-# github-profile-summary-cards-example
+Hi there I am Arjun Prasad Sarkhel!! 👋
 
-Action already setup In this template, you just need click `use this template` button to create your repo and wait for workflow to finish.
+More about me- https://apspportfolio.herokuapp.com/
 
-```To create your profile README you need name the repo as your username```
+- 🔭 I’m currently working on - Front End Web Developement
+- 🌱 I’m currently learning - Javascript
 
-Then you can use everything in profile-summary-card-output folder
-| :warning: | If your workflow does not generate all cards in output folder, then you need to use [Personal access token](https://docs.github.com/en/actions/configuring-and-managing-workflows/creating-and-storing-encrypted-secrets) instead of GITHUB_TOKEN in workflow. |
-| :-------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ArjunPrasadSarkhel&show_icons=true&theme=gruvbox) 
 
-| :warning: | Don't forget to modify the image path (The correct path is under the profile-summary-card-output folder). |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunPrasadSarkhel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](./profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/ArjunPrasadSarkhel/github-profile-summary-cards)
 [![](./profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/ArjunPrasadSarkhel/github-profile-summary-cards)
